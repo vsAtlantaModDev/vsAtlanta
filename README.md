@@ -1,6 +1,7 @@
 # Info
+Since all Friday Night Funkin' mods are required to be open source, we've uploaded our sourcecode to GitHub.
 
-This is an open source Friday Night Funkin' mod using the Kade Engine for improved charting.
+This is an Friday Night Funkin' mod using the Kade Engine for improved charting.
 
 Follow the links below for further instructuctions on setting the mod up.
 
