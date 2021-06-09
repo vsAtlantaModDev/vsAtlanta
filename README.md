@@ -2,8 +2,8 @@ This is an open source Friday Night Funkin' mod using the Kade Engine for improv
 
 Follow the links below for further instructuctions on setting the mod up.
 
-https://github.com/KadeDev/Kade-Engine
-https://github.com/ninjamuffin99/Funkin
+- [Kade Engine](https://github.com/KadeDev/Kade-Engine)
+- [Base Game](https://github.com/ninjamuffin99/Funkin)
 
 To set up a debug build type `lime test windows -debug` and to set up a release build type `lime build windows`
 
